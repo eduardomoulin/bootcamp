@@ -11,5 +11,4 @@ public class ExceptionResponse {
     public String getMessage() {
         return message;
     }
-
 }
